@@ -1,5 +1,6 @@
-- 💻 Full stack software engineer with experience in fintech & financial services
-- 🌱 Always learning
+- 💻  Full stack software engineer with experience in fintech & financial services
+- 👀  Currently enjoys working with Go & JavaScript based technologies
+- 🌱  Always learning
 
 <!---
 codewithji/codewithji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
