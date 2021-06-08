@@ -1,5 +1,4 @@
 - 💻  &nbsp; Full stack software engineer with experience in fintech & financial services
-- 👀  &nbsp; Currently interested in Go & JavaScript based technologies
 - 🌱  &nbsp; Always learning
 
 <!---
